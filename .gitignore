@@ -1,1 +1,5 @@
 *.exe
+
+RunFiles/*
+CodeBank/RunFiles/*
+CodeBank/Microsoft/RunFiles/*
