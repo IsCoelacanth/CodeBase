@@ -1,5 +1,5 @@
 *.exe
 
-RunFiles/*
-CodeBank/RunFiles/*
-CodeBank/Microsoft/RunFiles/*
+CodeFiles/RunFiles/*
+CodeFiles/CodeBank/RunFiles/*
+CodeFiles/CodeBank/Microsoft/RunFiles/*
